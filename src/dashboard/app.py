@@ -23,6 +23,10 @@ st.set_page_config(
     layout="wide",
 )
 
+css_path = Path(__file__).with_name("style.css")
+if css_path.exists():
+    st.markdown(f"<style>{css_path.read_text()}</style>", unsafe_allow_html=True)
+
 st.title("💧 CondenSys – Intelligent Water Recovery & Tracking System")
 st.caption("Real-time monitoring, AI predictions, and sustainability analytics for data-center cooling water recovery.")
 
