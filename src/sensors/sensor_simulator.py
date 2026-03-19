@@ -10,7 +10,7 @@ Two sensors:
 
 import numpy as np
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timezone
 
 
 @dataclass
@@ -34,7 +34,7 @@ class PreCondensationSensor:
         temp = float(self._rng.normal(loc=45.0, scale=5.0))     # 35-55 °C typical
         humidity = float(self._rng.uniform(60.0, 95.0))          # high-humidity vapor zone
         return SensorReading(
-            timestamp=datetime.utcnow(),
+            timestamp=datetime.now(timezone.utc),
             sensor_id=self.sensor_id,
             temperature=round(temp, 2),
             humidity=round(humidity, 2),
@@ -61,7 +61,7 @@ class PostCondensationSensor:
         flow = water / 5.0 + float(self._rng.normal(0, 0.05))
         flow = max(0.0, round(flow, 3))
         return SensorReading(
-            timestamp=datetime.utcnow(),
+            timestamp=datetime.now(timezone.utc),
             sensor_id=self.sensor_id,
             temperature=round(float(self._rng.normal(20.0, 2.0)), 2),
             humidity=round(float(self._rng.uniform(40.0, 70.0)), 2),

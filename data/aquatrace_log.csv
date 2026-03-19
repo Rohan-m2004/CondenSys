@@ -1,201 +1,201 @@
 timestamp,pre_temperature,pre_humidity,post_water_collected,post_flow_rate,predicted_water_recovery,efficiency_score,recommendation
-2026-03-19T00:23:38.339682,46.52,75.36,5.263,1.1,5.184,0.5184,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.339760,45.64,87.51,5.941,1.146,5.76,0.576,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.339794,45.33,88.8,6.209,1.199,6.169,0.6169,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.339819,49.39,82.11,5.139,0.994,5.123,0.5123,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.339843,42.86,66.81,4.932,1.005,4.749,0.4749,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.339866,55.71,93.86,5.043,0.968,5.243,0.5243,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.339914,44.43,76.65,5.077,1.048,5.324,0.5324,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.339939,39.14,70.93,5.196,1.051,5.378,0.5378,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.339961,49.36,64.89,4.311,0.866,4.088,0.4088,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.339987,37.71,87.33,6.659,1.3,6.723,0.6723,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340009,40.67,76.49,5.168,1.017,5.816,0.5816,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340030,48.56,70.64,4.438,0.864,4.675,0.4675,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340056,38.62,68.19,4.956,1.016,5.091,0.5091,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340077,42.86,87.44,6.433,1.271,6.152,0.6152,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340098,43.18,63.15,4.126,0.85,4.651,0.4651,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.340119,47.4,84.37,5.747,1.144,5.598,0.5598,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340139,36.56,63.07,4.605,0.871,5.001,0.5001,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.340159,43.11,93.92,6.572,1.351,6.771,0.6771,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340178,40.25,91.59,7.093,1.332,7.055,0.7055,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340197,42.03,89.98,6.542,1.282,6.729,0.6729,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340222,53.01,82.74,4.553,0.92,4.937,0.4937,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.340247,49.18,65.06,4.572,0.855,4.095,0.4095,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340266,43.05,72.14,5.326,1.054,5.27,0.527,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340286,46.57,62.9,4.8,1.106,4.283,0.4283,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.340305,34.34,69.34,5.447,1.069,5.561,0.5561,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340324,50.33,91.37,5.625,1.073,5.617,0.5617,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.340346,44.73,85.44,5.942,1.238,5.757,0.5757,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340367,40.17,79.42,6.578,1.275,6.095,0.6095,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340388,49.66,70.18,4.369,0.872,4.341,0.4341,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340407,42.73,75.23,5.002,1.009,5.35,0.535,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340430,44.41,78.16,5.823,1.176,5.578,0.5578,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340449,47.14,86.14,5.747,1.088,5.481,0.5481,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340468,53.62,65.36,3.674,0.808,3.797,0.3797,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.340488,48.22,94.01,6.083,1.208,6.203,0.6203,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340507,45.45,83.72,5.094,1.016,5.753,0.5753,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340531,40.61,88.14,6.818,1.297,6.775,0.6775,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340552,47.44,73.92,4.758,1.002,4.933,0.4933,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340572,44.23,92.37,6.372,1.287,6.503,0.6503,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340591,45.45,74.67,5.847,1.263,4.991,0.4991,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340610,37.68,87.47,6.909,1.442,6.61,0.661,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340630,34.26,78.58,6.139,1.201,6.469,0.6469,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340650,36.21,75.89,6.69,1.274,5.881,0.5881,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340676,59.53,62.33,3.043,0.626,3.435,0.3435,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.340697,43.77,92.23,6.613,1.304,6.555,0.6555,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340717,43.81,61.94,4.42,0.856,4.444,0.4444,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.340736,45.78,71.13,4.837,0.967,4.682,0.4682,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340756,44.51,68.73,5.239,1.067,4.819,0.4819,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340775,46.31,63.56,4.623,0.938,4.296,0.4296,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.340794,49.64,91.59,5.432,1.063,5.656,0.5656,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340813,43.54,64.71,4.491,0.906,4.632,0.4632,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.340832,43.82,82.38,5.874,1.156,5.759,0.5759,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340852,53.64,72.86,4.481,0.88,4.504,0.4504,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.340893,43.33,93.21,6.778,1.442,6.69,0.669,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340922,53.72,82.84,5.041,0.993,4.722,0.4722,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.340946,49.95,67.08,4.431,0.877,4.136,0.4136,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.340966,54.1,62.96,3.141,0.625,3.647,0.3647,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.340985,52.56,87.39,4.973,0.944,5.007,0.5007,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341004,41.64,81.57,5.755,1.209,6.097,0.6097,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341025,46.52,86.74,5.923,1.265,5.946,0.5946,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341050,47.95,64.1,4.613,0.941,4.174,0.4174,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.341069,49.07,71.68,4.633,0.938,4.486,0.4486,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341089,44.26,65.52,4.68,0.986,4.563,0.4563,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341108,52.41,79.35,4.474,0.905,4.601,0.4601,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341131,51.64,85.12,5.398,1.107,4.935,0.4935,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341150,34.98,80.59,6.413,1.288,6.807,0.6807,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341169,38.74,76.05,5.585,1.139,5.74,0.574,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341188,37.94,94.9,7.378,1.452,7.516,0.7516,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341216,45.69,63.17,4.357,0.898,4.684,0.4684,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.341236,45.98,66.94,4.402,0.906,4.483,0.4483,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341255,49.15,81.21,4.773,0.88,5.047,0.5047,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341274,48.75,92.47,5.983,1.251,5.714,0.5714,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341293,41.15,64.37,4.706,1.009,4.963,0.4963,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.341312,42.03,85.71,5.944,1.171,6.088,0.6088,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341334,38.09,61.91,4.479,0.92,4.719,0.4719,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.341353,49.64,63.21,3.819,0.71,4.141,0.4141,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.341372,44.05,80.03,5.706,1.207,5.614,0.5614,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341391,50.34,82.72,5.469,1.113,4.86,0.486,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341410,54.76,64.17,3.65,0.738,4.33,0.433,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341429,46.67,82.21,5.574,1.073,5.192,0.5192,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341448,39.41,61.26,4.552,1.007,4.473,0.4473,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.341467,46.74,84.57,5.545,1.118,5.351,0.5351,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341486,50.32,75.1,4.666,1.063,4.409,0.4409,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341504,45.46,92.24,6.271,1.246,6.628,0.6628,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341523,40.74,77.29,5.909,1.215,5.925,0.5925,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341546,43.57,71.69,4.964,1.04,5.079,0.5079,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341565,35.05,89.98,7.714,1.588,7.321,0.7321,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341584,30.18,93.55,8.891,1.8,8.611,0.8611,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341603,37.2,73.57,5.805,1.157,5.644,0.5644,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341622,48.34,65.81,4.519,0.985,4.216,0.4216,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341641,51.68,64.96,4.345,0.847,3.882,0.3882,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341660,46.29,76.43,5.023,0.958,4.897,0.4897,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341679,37.17,70.22,5.353,1.128,5.377,0.5377,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341701,36.57,89.53,7.173,1.426,7.411,0.7411,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341721,46.02,72.83,5.126,1.058,4.764,0.4764,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341744,46.48,89.82,5.983,1.181,5.908,0.5908,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341763,38.78,77.46,5.773,1.11,6.067,0.6067,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341782,45.26,66.21,4.8,0.997,4.539,0.4539,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341801,47.74,70.76,4.188,0.834,4.654,0.4654,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341821,45.95,94.36,6.776,1.418,6.805,0.6805,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341840,32.95,93.71,7.766,1.5,8.374,0.8374,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341859,39.12,79.36,6.11,1.303,6.143,0.6143,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341913,54.11,86.25,4.82,0.881,4.84,0.484,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341934,42.4,94.49,6.876,1.286,6.94,0.694,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.341954,51.37,79.44,4.638,0.955,4.742,0.4742,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.341974,36.57,61.7,4.582,0.928,4.787,0.4787,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.341997,40.97,85.88,6.551,1.322,6.234,0.6234,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342016,42.8,60.16,4.382,0.845,4.481,0.4481,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342039,42.94,83.51,5.644,1.008,6.14,0.614,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342061,42.97,80.66,5.657,1.117,5.746,0.5746,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342085,47.9,71.97,4.239,0.883,4.705,0.4705,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342105,43.31,64.79,4.776,0.869,4.644,0.4644,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342124,54.24,64.7,4.201,0.785,3.622,0.3622,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.342143,40.65,82.21,6.463,1.276,6.128,0.6128,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342162,40.49,69.96,5.18,0.951,5.178,0.5178,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342181,42.39,85.98,6.427,1.299,5.997,0.5997,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342203,49.18,65.44,4.872,0.995,4.126,0.4126,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342223,49.08,76.67,5.256,1.025,4.743,0.4743,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342242,48.95,63.57,3.919,0.763,4.179,0.4179,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342264,49.76,93.59,5.629,1.087,5.85,0.585,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342284,40.42,78.06,6.147,1.217,5.94,0.594,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342303,50.25,84.44,4.978,1.024,5.136,0.5136,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.342323,44.93,63.92,4.09,0.817,4.55,0.455,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342342,37.18,75.1,5.792,1.107,5.751,0.5751,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342361,33.6,76.8,6.098,1.293,6.28,0.628,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342380,39.3,76.13,5.911,1.185,5.749,0.5749,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342399,46.39,60.32,4.276,0.896,4.16,0.416,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342418,50.01,79.92,4.688,0.845,5.044,0.5044,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.342441,53.99,65.7,3.667,0.689,3.675,0.3675,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.342460,39.92,81.12,6.628,1.382,6.098,0.6098,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342479,48.2,81.03,5.622,1.156,5.348,0.5348,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342498,46.7,72.13,4.831,0.938,4.827,0.4827,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342517,53.64,71.1,4.197,0.907,3.933,0.3933,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.342536,39.53,66.05,5.011,0.937,4.852,0.4852,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342555,53.99,80.46,4.631,0.939,4.619,0.4619,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.342573,39.59,69.56,5.029,0.943,5.159,0.5159,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342592,36.07,60.64,5.145,1.082,4.715,0.4715,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342611,40.77,79.37,5.98,1.215,5.881,0.5881,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342634,44.34,94.42,6.474,1.306,6.986,0.6986,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342653,46.26,74.28,4.801,0.976,4.832,0.4832,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342672,46.37,93.65,6.134,1.299,6.27,0.627,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342690,35.69,90.74,7.304,1.455,7.258,0.7258,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342709,46.98,79.95,4.96,0.973,5.409,0.5409,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342728,43.37,67.15,5.305,1.044,4.78,0.478,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342747,53.77,91.06,5.301,1.078,5.515,0.5515,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.342770,41.46,81.06,5.823,1.14,6.008,0.6008,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342790,46.39,64.59,4.429,0.907,4.404,0.4404,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342809,40.09,63.46,4.735,0.951,4.616,0.4616,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342828,38.29,78.27,5.862,1.17,6.091,0.6091,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342850,48.62,82.84,4.753,0.853,5.221,0.5221,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342869,44.48,90.68,6.361,1.32,6.333,0.6333,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342907,39.53,64.82,5.273,1.033,4.813,0.4813,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.342927,40.83,78.98,5.719,1.146,6.025,0.6025,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342946,41.62,85.73,6.4,1.203,6.303,0.6303,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342965,44.26,67.24,4.498,1.003,4.657,0.4657,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.342984,45.35,89.63,5.897,1.199,6.131,0.6131,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343003,49.94,89.8,6.05,1.236,5.591,0.5591,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343022,43.41,92.9,6.607,1.293,6.671,0.6671,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343041,44.15,78.78,5.43,1.09,5.28,0.528,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343064,50.83,93.36,5.831,1.196,5.853,0.5853,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.343084,49.7,64.16,4.098,0.864,4.618,0.4618,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.343102,46.45,78.62,5.363,0.926,5.124,0.5124,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343121,36.38,65.35,5.34,1.01,5.094,0.5094,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343140,42.58,81.79,5.87,1.194,6.013,0.6013,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343159,39.99,82.37,6.168,1.165,6.362,0.6362,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343178,49.62,64.52,3.978,0.79,4.029,0.4029,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.343197,40.0,85.42,6.738,1.327,6.513,0.6513,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343216,47.32,71.99,4.809,0.999,4.874,0.4874,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343235,37.98,91.24,6.983,1.372,7.402,0.7402,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343255,53.97,85.85,4.907,0.999,4.875,0.4875,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.343279,45.65,74.68,5.056,0.975,5.184,0.5184,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343299,45.01,63.21,4.546,0.89,4.407,0.4407,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.343318,38.83,66.92,4.967,0.911,5.03,0.503,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343338,45.26,69.63,4.663,0.964,4.934,0.4934,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343358,47.05,78.97,4.594,0.901,5.226,0.5226,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343377,44.98,71.22,5.254,1.061,4.896,0.4896,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343396,42.36,90.63,6.826,1.337,6.604,0.6604,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.343415,40.23,79.06,6.116,1.228,5.893,0.5893,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344530,42.31,92.34,6.372,1.296,6.767,0.6767,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344558,45.55,76.82,4.815,1.037,5.383,0.5383,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344584,45.59,80.51,5.43,1.159,5.251,0.5251,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344605,41.78,60.26,4.064,0.836,4.427,0.4427,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.344624,44.02,64.05,4.413,0.803,4.708,0.4708,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.344643,51.6,81.69,4.766,1.025,4.825,0.4825,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.344663,47.16,69.47,4.622,0.904,4.433,0.4433,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344682,48.27,74.82,4.659,0.932,4.621,0.4621,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344701,41.72,94.98,6.899,1.459,7.051,0.7051,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344719,51.21,76.14,4.828,0.996,4.661,0.4661,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.344738,48.5,89.12,5.499,1.165,5.773,0.5773,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344757,43.64,77.19,5.366,1.078,5.573,0.5573,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344775,43.19,78.68,5.291,1.081,5.604,0.5604,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344794,43.82,61.22,4.218,0.932,4.408,0.4408,Low humidity in vapor zone. Check for vapor leaks.
-2026-03-19T00:23:38.344813,34.51,88.81,7.191,1.404,7.646,0.7646,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344835,51.44,69.01,4.2,0.836,4.258,0.4258,High temperature detected. Increase airflow to boost condensation.
-2026-03-19T00:23:38.344855,33.4,67.67,5.471,1.095,5.378,0.5378,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344913,43.08,66.14,5.015,1.012,4.701,0.4701,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344955,42.19,75.71,5.504,1.101,5.496,0.5496,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344977,37.91,67.73,5.148,1.017,5.116,0.5116,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.344997,40.7,89.0,7.138,1.407,6.569,0.6569,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.345017,35.46,69.11,5.276,1.051,5.234,0.5234,Conditions are optimal for water recovery.
-2026-03-19T00:23:38.345036,45.74,69.47,4.837,0.901,5.033,0.5033,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468290+00:00,46.52,75.36,5.263,1.1,5.184,0.5184,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468360+00:00,45.64,87.51,5.941,1.146,5.76,0.576,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468389+00:00,45.33,88.8,6.209,1.199,6.169,0.6169,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468409+00:00,49.39,82.11,5.139,0.994,5.123,0.5123,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468428+00:00,42.86,66.81,4.932,1.005,4.749,0.4749,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468447+00:00,55.71,93.86,5.043,0.968,5.243,0.5243,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.468465+00:00,44.43,76.65,5.077,1.048,5.324,0.5324,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468481+00:00,39.14,70.93,5.196,1.051,5.378,0.5378,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468499+00:00,49.36,64.89,4.311,0.866,4.088,0.4088,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.468524+00:00,37.71,87.33,6.659,1.3,6.723,0.6723,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468541+00:00,40.67,76.49,5.168,1.017,5.816,0.5816,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468558+00:00,48.56,70.64,4.438,0.864,4.675,0.4675,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468576+00:00,38.62,68.19,4.956,1.016,5.091,0.5091,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468594+00:00,42.86,87.44,6.433,1.271,6.152,0.6152,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468611+00:00,43.18,63.15,4.126,0.85,4.651,0.4651,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.468628+00:00,47.4,84.37,5.747,1.144,5.598,0.5598,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468644+00:00,36.56,63.07,4.605,0.871,5.001,0.5001,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.468660+00:00,43.11,93.92,6.572,1.351,6.771,0.6771,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468675+00:00,40.25,91.59,7.093,1.332,7.055,0.7055,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468691+00:00,42.03,89.98,6.542,1.282,6.729,0.6729,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468707+00:00,53.01,82.74,4.553,0.92,4.937,0.4937,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.468722+00:00,49.18,65.06,4.572,0.855,4.095,0.4095,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468738+00:00,43.05,72.14,5.326,1.054,5.27,0.527,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468754+00:00,46.57,62.9,4.8,1.106,4.283,0.4283,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.468770+00:00,34.34,69.34,5.447,1.069,5.561,0.5561,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468786+00:00,50.33,91.37,5.625,1.073,5.617,0.5617,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.468802+00:00,44.73,85.44,5.942,1.238,5.757,0.5757,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468820+00:00,40.17,79.42,6.578,1.275,6.095,0.6095,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468836+00:00,49.66,70.18,4.369,0.872,4.341,0.4341,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468851+00:00,42.73,75.23,5.002,1.009,5.35,0.535,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468870+00:00,44.41,78.16,5.823,1.176,5.578,0.5578,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468911+00:00,47.14,86.14,5.747,1.088,5.481,0.5481,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468928+00:00,53.62,65.36,3.674,0.808,3.797,0.3797,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.468945+00:00,48.22,94.01,6.083,1.208,6.203,0.6203,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468961+00:00,45.45,83.72,5.094,1.016,5.753,0.5753,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468976+00:00,40.61,88.14,6.818,1.297,6.775,0.6775,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.468995+00:00,47.44,73.92,4.758,1.002,4.933,0.4933,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469010+00:00,44.23,92.37,6.372,1.287,6.503,0.6503,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469028+00:00,45.45,74.67,5.847,1.263,4.991,0.4991,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469045+00:00,37.68,87.47,6.909,1.442,6.61,0.661,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469062+00:00,34.26,78.58,6.139,1.201,6.469,0.6469,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469078+00:00,36.21,75.89,6.69,1.274,5.881,0.5881,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469094+00:00,59.53,62.33,3.043,0.626,3.435,0.3435,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469109+00:00,43.77,92.23,6.613,1.304,6.555,0.6555,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469125+00:00,43.81,61.94,4.42,0.856,4.444,0.4444,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469140+00:00,45.78,71.13,4.837,0.967,4.682,0.4682,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469156+00:00,44.51,68.73,5.239,1.067,4.819,0.4819,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469172+00:00,46.31,63.56,4.623,0.938,4.296,0.4296,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469187+00:00,49.64,91.59,5.432,1.063,5.656,0.5656,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469203+00:00,43.54,64.71,4.491,0.906,4.632,0.4632,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469218+00:00,43.82,82.38,5.874,1.156,5.759,0.5759,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469234+00:00,53.64,72.86,4.481,0.88,4.504,0.4504,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469255+00:00,43.33,93.21,6.778,1.442,6.69,0.669,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469271+00:00,53.72,82.84,5.041,0.993,4.722,0.4722,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469288+00:00,49.95,67.08,4.431,0.877,4.136,0.4136,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469303+00:00,54.1,62.96,3.141,0.625,3.647,0.3647,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469319+00:00,52.56,87.39,4.973,0.944,5.007,0.5007,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469335+00:00,41.64,81.57,5.755,1.209,6.097,0.6097,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469352+00:00,46.52,86.74,5.923,1.265,5.946,0.5946,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469367+00:00,47.95,64.1,4.613,0.941,4.174,0.4174,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469383+00:00,49.07,71.68,4.633,0.938,4.486,0.4486,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469399+00:00,44.26,65.52,4.68,0.986,4.563,0.4563,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469414+00:00,52.41,79.35,4.474,0.905,4.601,0.4601,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469433+00:00,51.64,85.12,5.398,1.107,4.935,0.4935,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469449+00:00,34.98,80.59,6.413,1.288,6.807,0.6807,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469465+00:00,38.74,76.05,5.585,1.139,5.74,0.574,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469481+00:00,37.94,94.9,7.378,1.452,7.516,0.7516,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469496+00:00,45.69,63.17,4.357,0.898,4.684,0.4684,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469512+00:00,45.98,66.94,4.402,0.906,4.483,0.4483,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469527+00:00,49.15,81.21,4.773,0.88,5.047,0.5047,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469543+00:00,48.75,92.47,5.983,1.251,5.714,0.5714,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469558+00:00,41.15,64.37,4.706,1.009,4.963,0.4963,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469573+00:00,42.03,85.71,5.944,1.171,6.088,0.6088,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469592+00:00,38.09,61.91,4.479,0.92,4.719,0.4719,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469609+00:00,49.64,63.21,3.819,0.71,4.141,0.4141,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469625+00:00,44.05,80.03,5.706,1.207,5.614,0.5614,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469640+00:00,50.34,82.72,5.469,1.113,4.86,0.486,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469656+00:00,54.76,64.17,3.65,0.738,4.33,0.433,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469672+00:00,46.67,82.21,5.574,1.073,5.192,0.5192,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469687+00:00,39.41,61.26,4.552,1.007,4.473,0.4473,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.469703+00:00,46.74,84.57,5.545,1.118,5.351,0.5351,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469718+00:00,50.32,75.1,4.666,1.063,4.409,0.4409,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469734+00:00,45.46,92.24,6.271,1.246,6.628,0.6628,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469752+00:00,40.74,77.29,5.909,1.215,5.925,0.5925,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469769+00:00,43.57,71.69,4.964,1.04,5.079,0.5079,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469784+00:00,35.05,89.98,7.714,1.588,7.321,0.7321,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469800+00:00,30.18,93.55,8.891,1.8,8.611,0.8611,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469815+00:00,37.2,73.57,5.805,1.157,5.644,0.5644,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469831+00:00,48.34,65.81,4.519,0.985,4.216,0.4216,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469849+00:00,51.68,64.96,4.345,0.847,3.882,0.3882,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.469864+00:00,46.29,76.43,5.023,0.958,4.897,0.4897,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469896+00:00,37.17,70.22,5.353,1.128,5.377,0.5377,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469915+00:00,36.57,89.53,7.173,1.426,7.411,0.7411,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469932+00:00,46.02,72.83,5.126,1.058,4.764,0.4764,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469953+00:00,46.48,89.82,5.983,1.181,5.908,0.5908,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469971+00:00,38.78,77.46,5.773,1.11,6.067,0.6067,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.469987+00:00,45.26,66.21,4.8,0.997,4.539,0.4539,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470003+00:00,47.74,70.76,4.188,0.834,4.654,0.4654,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470018+00:00,45.95,94.36,6.776,1.418,6.805,0.6805,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470034+00:00,32.95,93.71,7.766,1.5,8.374,0.8374,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470050+00:00,39.12,79.36,6.11,1.303,6.143,0.6143,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470065+00:00,54.11,86.25,4.82,0.881,4.84,0.484,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470081+00:00,42.4,94.49,6.876,1.286,6.94,0.694,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470097+00:00,51.37,79.44,4.638,0.955,4.742,0.4742,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470112+00:00,36.57,61.7,4.582,0.928,4.787,0.4787,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470130+00:00,40.97,85.88,6.551,1.322,6.234,0.6234,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470148+00:00,42.8,60.16,4.382,0.845,4.481,0.4481,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470167+00:00,42.94,83.51,5.644,1.008,6.14,0.614,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470183+00:00,42.97,80.66,5.657,1.117,5.746,0.5746,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470199+00:00,47.9,71.97,4.239,0.883,4.705,0.4705,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470215+00:00,43.31,64.79,4.776,0.869,4.644,0.4644,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470231+00:00,54.24,64.7,4.201,0.785,3.622,0.3622,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470246+00:00,40.65,82.21,6.463,1.276,6.128,0.6128,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470262+00:00,40.49,69.96,5.18,0.951,5.178,0.5178,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470280+00:00,42.39,85.98,6.427,1.299,5.997,0.5997,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470299+00:00,49.18,65.44,4.872,0.995,4.126,0.4126,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470317+00:00,49.08,76.67,5.256,1.025,4.743,0.4743,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470333+00:00,48.95,63.57,3.919,0.763,4.179,0.4179,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470349+00:00,49.76,93.59,5.629,1.087,5.85,0.585,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470364+00:00,40.42,78.06,6.147,1.217,5.94,0.594,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470380+00:00,50.25,84.44,4.978,1.024,5.136,0.5136,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470396+00:00,44.93,63.92,4.09,0.817,4.55,0.455,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470412+00:00,37.18,75.1,5.792,1.107,5.751,0.5751,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470428+00:00,33.6,76.8,6.098,1.293,6.28,0.628,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470443+00:00,39.3,76.13,5.911,1.185,5.749,0.5749,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470459+00:00,46.39,60.32,4.276,0.896,4.16,0.416,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470474+00:00,50.01,79.92,4.688,0.845,5.044,0.5044,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470490+00:00,53.99,65.7,3.667,0.689,3.675,0.3675,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470505+00:00,39.92,81.12,6.628,1.382,6.098,0.6098,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470521+00:00,48.2,81.03,5.622,1.156,5.348,0.5348,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470537+00:00,46.7,72.13,4.831,0.938,4.827,0.4827,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470552+00:00,53.64,71.1,4.197,0.907,3.933,0.3933,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470568+00:00,39.53,66.05,5.011,0.937,4.852,0.4852,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470583+00:00,53.99,80.46,4.631,0.939,4.619,0.4619,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470599+00:00,39.59,69.56,5.029,0.943,5.159,0.5159,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470614+00:00,36.07,60.64,5.145,1.082,4.715,0.4715,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470629+00:00,40.77,79.37,5.98,1.215,5.881,0.5881,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470651+00:00,44.34,94.42,6.474,1.306,6.986,0.6986,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470666+00:00,46.26,74.28,4.801,0.976,4.832,0.4832,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470682+00:00,46.37,93.65,6.134,1.299,6.27,0.627,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470700+00:00,35.69,90.74,7.304,1.455,7.258,0.7258,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470717+00:00,46.98,79.95,4.96,0.973,5.409,0.5409,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470733+00:00,43.37,67.15,5.305,1.044,4.78,0.478,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470748+00:00,53.77,91.06,5.301,1.078,5.515,0.5515,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.470764+00:00,41.46,81.06,5.823,1.14,6.008,0.6008,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470779+00:00,46.39,64.59,4.429,0.907,4.404,0.4404,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470795+00:00,40.09,63.46,4.735,0.951,4.616,0.4616,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470810+00:00,38.29,78.27,5.862,1.17,6.091,0.6091,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470826+00:00,48.62,82.84,4.753,0.853,5.221,0.5221,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470842+00:00,44.48,90.68,6.361,1.32,6.333,0.6333,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470857+00:00,39.53,64.82,5.273,1.033,4.813,0.4813,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.470873+00:00,40.83,78.98,5.719,1.146,6.025,0.6025,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470904+00:00,41.62,85.73,6.4,1.203,6.303,0.6303,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470921+00:00,44.26,67.24,4.498,1.003,4.657,0.4657,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470936+00:00,45.35,89.63,5.897,1.199,6.131,0.6131,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470952+00:00,49.94,89.8,6.05,1.236,5.591,0.5591,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470967+00:00,43.41,92.9,6.607,1.293,6.671,0.6671,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.470983+00:00,44.15,78.78,5.43,1.09,5.28,0.528,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471002+00:00,50.83,93.36,5.831,1.196,5.853,0.5853,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.471020+00:00,49.7,64.16,4.098,0.864,4.618,0.4618,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.471035+00:00,46.45,78.62,5.363,0.926,5.124,0.5124,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471051+00:00,36.38,65.35,5.34,1.01,5.094,0.5094,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471067+00:00,42.58,81.79,5.87,1.194,6.013,0.6013,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471082+00:00,39.99,82.37,6.168,1.165,6.362,0.6362,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471097+00:00,49.62,64.52,3.978,0.79,4.029,0.4029,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.471116+00:00,40.0,85.42,6.738,1.327,6.513,0.6513,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471132+00:00,47.32,71.99,4.809,0.999,4.874,0.4874,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471147+00:00,37.98,91.24,6.983,1.372,7.402,0.7402,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471163+00:00,53.97,85.85,4.907,0.999,4.875,0.4875,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.471179+00:00,45.65,74.68,5.056,0.975,5.184,0.5184,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471194+00:00,45.01,63.21,4.546,0.89,4.407,0.4407,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.471210+00:00,38.83,66.92,4.967,0.911,5.03,0.503,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471225+00:00,45.26,69.63,4.663,0.964,4.934,0.4934,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471241+00:00,47.05,78.97,4.594,0.901,5.226,0.5226,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471257+00:00,44.98,71.22,5.254,1.061,4.896,0.4896,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471273+00:00,42.36,90.63,6.826,1.337,6.604,0.6604,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471288+00:00,40.23,79.06,6.116,1.228,5.893,0.5893,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471304+00:00,42.31,92.34,6.372,1.296,6.767,0.6767,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471403+00:00,45.55,76.82,4.815,1.037,5.383,0.5383,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471427+00:00,45.59,80.51,5.43,1.159,5.251,0.5251,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471444+00:00,41.78,60.26,4.064,0.836,4.427,0.4427,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.471460+00:00,44.02,64.05,4.413,0.803,4.708,0.4708,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.471478+00:00,51.6,81.69,4.766,1.025,4.825,0.4825,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.471494+00:00,47.16,69.47,4.622,0.904,4.433,0.4433,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471510+00:00,48.27,74.82,4.659,0.932,4.621,0.4621,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471525+00:00,41.72,94.98,6.899,1.459,7.051,0.7051,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471541+00:00,51.21,76.14,4.828,0.996,4.661,0.4661,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.471557+00:00,48.5,89.12,5.499,1.165,5.773,0.5773,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471573+00:00,43.64,77.19,5.366,1.078,5.573,0.5573,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471588+00:00,43.19,78.68,5.291,1.081,5.604,0.5604,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471604+00:00,43.82,61.22,4.218,0.932,4.408,0.4408,Low humidity in vapor zone. Check for vapor leaks.
+2026-03-19T00:26:00.471622+00:00,34.51,88.81,7.191,1.404,7.646,0.7646,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471638+00:00,51.44,69.01,4.2,0.836,4.258,0.4258,High temperature detected. Increase airflow to boost condensation.
+2026-03-19T00:26:00.471654+00:00,33.4,67.67,5.471,1.095,5.378,0.5378,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471669+00:00,43.08,66.14,5.015,1.012,4.701,0.4701,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471685+00:00,42.19,75.71,5.504,1.101,5.496,0.5496,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471700+00:00,37.91,67.73,5.148,1.017,5.116,0.5116,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471716+00:00,40.7,89.0,7.138,1.407,6.569,0.6569,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471731+00:00,35.46,69.11,5.276,1.051,5.234,0.5234,Conditions are optimal for water recovery.
+2026-03-19T00:26:00.471747+00:00,45.74,69.47,4.837,0.901,5.033,0.5033,Conditions are optimal for water recovery.

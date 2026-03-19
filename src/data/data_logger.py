@@ -6,7 +6,7 @@ and provides utilities to reload data as a pandas DataFrame.
 from __future__ import annotations
 
 import csv
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -49,7 +49,7 @@ class DataLogger:
         timestamp: datetime | None = None,
     ) -> None:
         row = {
-            "timestamp": (timestamp or datetime.utcnow()).isoformat(),
+            "timestamp": (timestamp or datetime.now(timezone.utc)).isoformat(),
             "pre_temperature": round(pre_temperature, 3),
             "pre_humidity": round(pre_humidity, 3),
             "post_water_collected": round(post_water_collected, 3),

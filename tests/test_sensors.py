@@ -1,5 +1,6 @@
 import numpy as np
 import pytest
+from datetime import datetime, timezone
 from src.sensors.sensor_simulator import (
     PreCondensationSensor,
     PostCondensationSensor,
@@ -34,19 +35,20 @@ def test_post_sensor_fields():
 def test_post_sensor_higher_humidity_more_water():
     """Higher humidity pre-readings should produce more water on average."""
     low_reading = SensorReading(
-        timestamp=__import__("datetime").datetime.utcnow(),
+        timestamp=datetime.now(timezone.utc),
         sensor_id="PRE-01",
         temperature=45.0,
         humidity=60.0,
     )
     high_reading = SensorReading(
-        timestamp=__import__("datetime").datetime.utcnow(),
+        timestamp=datetime.now(timezone.utc),
         sensor_id="PRE-01",
         temperature=45.0,
         humidity=90.0,
     )
 
     n = 500
+    # Same seed on both RNGs so random noise cancels out, isolating the humidity effect.
     low_rng = np.random.default_rng(0)
     high_rng = np.random.default_rng(0)
     low_waters = [PostCondensationSensor(rng=low_rng).read(low_reading).water_collected for _ in range(n)]
