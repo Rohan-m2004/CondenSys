@@ -11,7 +11,7 @@ from pathlib import Path
 
 import pandas as pd
 
-_DEFAULT_LOG_PATH = Path(__file__).parent.parent.parent / "data" / "aquatrace_log.csv"
+_DEFAULT_LOG_PATH = Path(__file__).parent.parent.parent / "data" / "condensys_log.csv"
 
 _COLUMNS = [
     "timestamp",

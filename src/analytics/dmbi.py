@@ -1,5 +1,5 @@
 """
-DMBI – Data Mining & Business Intelligence for AquaTrace AI.
+DMBI – Data Mining & Business Intelligence for CondenSys.
 
 Identifies patterns in water loss, predicts peak-loss times,
 and generates sustainability reports.
@@ -83,7 +83,7 @@ class DMBIAnalytics:
 
         lines = [
             "=" * 60,
-            "  AquaTrace AI – Sustainability Report",
+            "  CondenSys – Sustainability Report",
             "=" * 60,
             f"  Total readings analysed : {len(self.df)}",
         ]

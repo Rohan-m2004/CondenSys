@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AquaTrace AI – main simulation runner.
+CondenSys – main simulation runner.
 
 Generates N cycles of simulated sensor readings, trains the DNN,
 logs predictions, runs analytics, and prints a summary report.
@@ -36,7 +36,7 @@ def run_simulation(n_cycles: int = 200, train_model: bool = True, seed: int = 42
     model = WaterRecoveryDNN()
 
     print(f"\n{'='*60}")
-    print("  AquaTrace AI – Intelligent Water Recovery System")
+    print("  CondenSys – Intelligent Water Recovery System")
     print(f"{'='*60}")
     print(f"  Simulation cycles : {n_cycles}")
     print(f"  DNN training      : {'Enabled' if train_model else 'Disabled'}")
@@ -105,7 +105,7 @@ def run_simulation(n_cycles: int = 200, train_model: bool = True, seed: int = 42
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="AquaTrace AI – Water Recovery Simulation")
+    parser = argparse.ArgumentParser(description="CondenSys – Water Recovery Simulation")
     parser.add_argument("--cycles", type=int, default=200, help="Number of simulation cycles")
     parser.add_argument("--no-train", action="store_true", help="Skip DNN training")
     parser.add_argument("--seed", type=int, default=42, help="Random seed")

@@ -1,5 +1,5 @@
 """
-AquaTrace AI – Streamlit Dashboard
+CondenSys – Streamlit Dashboard
 Run with: streamlit run src/dashboard/app.py
 """
 
@@ -18,12 +18,12 @@ from src.analytics.dmbi import DMBIAnalytics
 from src.analytics.spm import SPMMonitor
 
 st.set_page_config(
-    page_title="AquaTrace AI",
+    page_title="CondenSys",
     page_icon="💧",
     layout="wide",
 )
 
-st.title("💧 AquaTrace AI – Intelligent Water Recovery & Tracking System")
+st.title("💧 CondenSys – Intelligent Water Recovery & Tracking System")
 st.caption("Real-time monitoring, AI predictions, and sustainability analytics for data-center cooling water recovery.")
 
 logger = DataLogger()

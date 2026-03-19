@@ -1,5 +1,5 @@
 """
-SPM – Statistical Process Monitoring for AquaTrace AI.
+SPM – Statistical Process Monitoring for CondenSys.
 
 Implements Shewhart control charts (X-bar ± 3σ) to detect
 anomalies in sensor readings and water recovery metrics.

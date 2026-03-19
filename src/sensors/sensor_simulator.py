@@ -1,5 +1,5 @@
 """
-Sensor simulation for AquaTrace AI.
+Sensor simulation for CondenSys.
 
 Two sensors:
   PreCondensationSensor  – measures temperature (°C) and relative humidity (%)

@@ -46,7 +46,7 @@ def test_generate_report_contains_header(tmp_path):
     df = make_df()
     dmbi = DMBIAnalytics(df)
     report = dmbi.generate_report()
-    assert "AquaTrace AI" in report
+    assert "CondenSys" in report
 
 
 def test_empty_df_summary(tmp_path):
