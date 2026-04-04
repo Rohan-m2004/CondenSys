@@ -13,7 +13,7 @@ A Python prototype that simulates IoT sensors on a data-center cooling system, l
 
 ---
 
-## 🚀 How to Run (Show to Teacher)
+##  How to Run 
 
 ### Step 1 – Install dependencies (one-time setup)
 
